@@ -4,6 +4,9 @@
 # Output: พิมพ์ "Eligible" หากอายุตั้งแต่ 18 ปีขึ้นไป หรือ "Not Eligible" หากน้อยกว่า 18 ปี
 # ==========================================
 
+age =int(input("ตรวจสอบอายุ"))
 
-# นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-age = int(input())
+if age >= 18:18
+print("Eligible <=18")
+eles:
+print("Not Eligible >18")
