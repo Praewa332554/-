@@ -6,4 +6,10 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-n = int(input())
+n = int(input("จำนวนเต็มบวก:3+1"))
+if
+print("Positive n>=0"))
+eles
+print("Negative <0")
+
+
